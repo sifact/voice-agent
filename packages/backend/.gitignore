@@ -1,0 +1,6 @@
+
+.env.local
+
+# convex ai-agent helper docs (regenerate with `npx convex ai-files install`)
+.agents/skills/
+.claude/skills/
